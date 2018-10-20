@@ -1,0 +1,5 @@
+#The following code has been modified from Dr Girke's systemPipeR pipeline.
+
+library(systemPipeR)
+library(GenomicFeatures)
+#Read the targets file
